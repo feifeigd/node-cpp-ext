@@ -1,13 +1,13 @@
-
-°²×°node-gyp
+ï»¿
+å®‰è£…node-gyp
 ```shell
 npm install -g node-gyp
 ```
-±àÒëC/C++À©Õ¹Ä£¿é
+ç¼–è¯‘C/C++æ‰©å±•æ¨¡å—
 ```shell
 node-gyp configure build
 ```
-²âÊÔ
+æµ‹è¯•
 ```shell
 node test.js
 ```
